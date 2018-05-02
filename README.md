@@ -1,4 +1,4 @@
-# Machine Leearning Tutorial
+# Machine Learning Tutorial
 
 
 
