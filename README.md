@@ -3,6 +3,8 @@
 
 
 ## Keras
+* https://github.com/fastforwardlabs/keras-hello-world/blob/master/kerashelloworld.ipynb
+* https://github.com/keras-team/keras
 
 ## Tensorflow
 
