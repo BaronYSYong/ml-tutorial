@@ -15,4 +15,4 @@
 ## scikit-learn
 
 ## hmmlearn
-
+* http://hmmlearn.readthedocs.io/en/latest/tutorial.html
