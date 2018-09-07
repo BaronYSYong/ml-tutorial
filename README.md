@@ -16,3 +16,6 @@
 
 ## hmmlearn
 * http://hmmlearn.readthedocs.io/en/latest/tutorial.html
+
+## DVC 
+* https://blog.dataversioncontrol.com/data-version-control-tutorial-9146715eda46
